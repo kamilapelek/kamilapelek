@@ -1,7 +1,7 @@
 - 👋 Oi, eu sou a @kamilapelek
 - 👀 Eu tenho interesse em Pensamento Computacional
 - 📧 kamila.pelek@escola.pr.gov.br
-- 💞️ I’m looking to collaborate on ...
+![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - 📫 How to reach me ...
 
 <!---
